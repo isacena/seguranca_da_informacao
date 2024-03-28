@@ -117,6 +117,19 @@ main{
 
 }
 
+textarea{
+    width: 98%;
+    height: 8rem;
+}
+
+#result {
+    padding: 0.3rem;
+    background-color: pink;
+    color: white;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
 h2 {
     display: flex;
     justify-content: center;
